@@ -47,6 +47,10 @@ Flags unknown domains with unrecognized keywords
 
 Checks for mismatched org/country patterns
 
+Screenshots: 
+
+![image](https://github.com/user-attachments/assets/75050cd9-8b25-4763-9bd4-4e8883d8c9a0)
+
 👨‍💻 Author
 Owaiz Khan
 Security Researcher | Automation Enthusiast
